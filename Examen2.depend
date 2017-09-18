@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1505739604 source:c:\users\ordenador\desktop\jhair\evaluador.cpp
+	"Evaluador.h"
+
+1505739604 c:\users\ordenador\desktop\jhair\evaluador.h
+	"Libro.h"
+	"NodoBinario.h"
+	<iostream>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<list>
+
+1505739604 c:\users\ordenador\desktop\jhair\libro.h
+	<iostream>
+
+1505739604 c:\users\ordenador\desktop\jhair\nodobinario.h
+	<iostream>
+
+1505739604 source:c:\users\ordenador\desktop\jhair\libro.cpp
+	"Libro.h"
+
+1505739604 source:c:\users\ordenador\desktop\jhair\nodobinario.cpp
+	"NodoBinario.h"
+
+1505743296 source:c:\users\ordenador\desktop\jhair\main.cpp
+	<iostream>
+	<list>
+	<fstream>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	"Libro.h"
+	"Evaluador.h"
+	"NodoBinario.h"
+
